@@ -1,0 +1,3 @@
+[submodule "ext-lib/mimalloc"]
+	path = ext-lib/mimalloc
+	url = https://github.com/microsoft/mimalloc
